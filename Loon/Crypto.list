@@ -40,6 +40,16 @@ DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,msx.com
 DOMAIN-SUFFIX,mystonks.org
 DOMAIN-SUFFIX,hyperliquid.xyz
+DOMAIN-SUFFIX,hyperiliquid.com
+DOMAIN-SUFFIX,httpsmystonksorg.zendesk.com
+DOMAIN,bnliveplay-ag.bblivestream.com
+DOMAIN-SUFFIX,sc-datasink.ffe390afd658c19dcbf707e0597b846d.de
+DOMAIN-SUFFIX,mokexapp.io
+DOMAIN-SUFFIX,mokexapp.net
+DOMAIN,addfd325e6e3.cdn4.forter.com
+DOMAIN-SUFFIX,feda81af-061e-48eb-8be5-5c97d6afc1d3-addfd325e6e3.cdn.forter.com
+IP-CIDR,43.132.43.43/32
+
 
 # > Binance
 DOMAIN-SUFFIX,binance.cc
