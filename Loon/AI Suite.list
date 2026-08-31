@@ -2,7 +2,10 @@
 # SOURCE: OpenAI+AI.merged.list
 # SOURCE: AI Suite.list
 # DEDUPE: exact rule line, case-insensitive
-# TOTAL: 217
+# TOTAL: 218
+
+# > Custom (from Loon local [Rule] 2026-08-31)
+DOMAIN-SUFFIX,app-analytics-services.com
 
 # > OpenAI / ChatGPT / Sora
 DOMAIN-KEYWORD,openai
@@ -298,4 +301,3 @@ DOMAIN,static.cloudflareinsights.com
 IP-ASN,20473,no-resolve
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
-
