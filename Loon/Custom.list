@@ -1,0 +1,11 @@
+# NAME: Custom
+# POLICY: Available
+# SOURCE: Loon local [Rule] 2026-08-31
+# NOTE: Loon 远程规则订阅时指定 policy=Available
+# URL: https://raw.githubusercontent.com/workqn/Rules/main/Loon/Custom.list
+
+DOMAIN-SUFFIX,cindy.app
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,x.com
