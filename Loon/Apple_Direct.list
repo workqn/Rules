@@ -1,0 +1,18 @@
+# > Apple Watch 天气与定位
+DOMAIN-SUFFIX,weatherkit.apple.com
+DOMAIN-SUFFIX,weather-edge.apple.com
+DOMAIN-SUFFIX,weather-data.apple.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN,weather-analytics-events.apple.com
+DOMAIN,cl4.apple.com
+# > Apple Music 无损音频流
+DOMAIN-SUFFIX,audio-ak-bcdn.apple.com
+DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
+DOMAIN-SUFFIX,mvod.itunes.apple.com
+# > 苹果全生态直连兜底 (App Store / iCloud / OTA) ---
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,apple-cloudkit.com
